@@ -9,3 +9,4 @@ const square = num => {
 const add = (a,b)=>{
     return a + b;
 }
+
